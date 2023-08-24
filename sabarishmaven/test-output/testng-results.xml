@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-17T09:30:12 IST" name="Default suite" finished-at="2023-08-17T09:30:39 IST" duration-ms="27190">
+    <groups>
+    </groups>
+    <test started-at="2023-08-17T09:30:12 IST" name="Default test" finished-at="2023-08-17T09:30:39 IST" duration-ms="27190">
+      <class name="dataprovider.d1">
+        <test-method signature="DataProvSampleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:dataprovider.d1@7f0eb4b4]" started-at="2023-08-17T09:30:12 IST" name="DataProvSampleTest" data-provider="dhivya" finished-at="2023-08-17T09:30:23 IST" duration-ms="11352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhivyakarthi123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvSampleTest -->
+        <test-method signature="DataProvSampleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:dataprovider.d1@7f0eb4b4]" started-at="2023-08-17T09:30:23 IST" name="DataProvSampleTest" data-provider="dhivya" finished-at="2023-08-17T09:30:31 IST" duration-ms="7860" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ganga]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvSampleTest -->
+        <test-method signature="DataProvSampleTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:dataprovider.d1@7f0eb4b4]" started-at="2023-08-17T09:30:31 IST" name="DataProvSampleTest" data-provider="dhivya" finished-at="2023-08-17T09:30:39 IST" duration-ms="7863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hemanth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProvSampleTest -->
+      </class> <!-- dataprovider.d1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
